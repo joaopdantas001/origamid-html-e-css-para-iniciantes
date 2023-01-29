@@ -1,0 +1,41 @@
+body{
+  font-family: Arial;
+}
+a{
+  text-decoration: none;
+}
+.estados{
+  color: seagreen;
+}
+.inicio{
+  text-decoration: none;
+  color: purple;
+}
+.hoje{
+  color: darkred;
+}
+.hoje .poster{
+  border-color: darkred;
+}
+.poster{
+  border-style: solid;
+  border-width: 8px;
+  padding: 2px;
+}
+.amanha .poster{
+  border-color: darkblue;
+}
+.amanha{
+  color: darkblue;
+}
+p{
+  font-size: 25px;
+}
+.rodape{
+  color: darkcyan;
+  text-align: right;
+}
+.poster{
+  width: 20%;
+  height: auto;
+}
